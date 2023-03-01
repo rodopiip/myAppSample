@@ -1,2 +1,2 @@
-# master
-This is my main repository.
+# Sample
+Sample sample.
